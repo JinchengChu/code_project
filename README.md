@@ -90,7 +90,7 @@ The project uses MakeCode Arcade's built-in APIs for sprites, controllers, scene
 
 ## Project development
 
-The game began as a simpler fixed-screen rescue prototype. During development, rescue requirements, individual deadlines, healing, hazards and three levels were added. The environments were later redesigned with compact scrolling tilemaps and a player-following camera. Feedback that JavaScript was not the primary classroom programming approach led to ensuring the final project could also be opened and understood in **MakeCode Arcade Blocks**.
+The game began as a simpler fixed-screen rescue prototype. During development, rescue requirements, individual deadlines, healing, hazards and three levels were added. The environments were later redesigned with compact scrolling tilemaps and a player-following camera. 
 
 ## Project files
 
